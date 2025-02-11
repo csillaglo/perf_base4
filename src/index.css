@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Set default font for the entire application */
+html {
+  font-family: 'Inter', system-ui, sans-serif;
+}
